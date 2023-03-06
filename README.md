@@ -1,2 +1,2 @@
 # ClassificadorDeAtaqueCardiacoML
-Modelo de ML que classifica chances de ter um ataque cardíaco ou não.
+Classificador de ML, que dado os dados, classifica se a pessoa tem chances ou não de ter ataque cardíaco.
